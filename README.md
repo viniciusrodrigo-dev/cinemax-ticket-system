@@ -27,7 +27,7 @@ e confirma a reserva. Vários clientes podem ser atendidos na mesma execução.
 ## Como executar
 
 ```bash
-python cinemax_projeto2.py
+python cinemax_cli.py
 ```
 
 ## Como usar
